@@ -1,4 +1,4 @@
-# Smart Home Hardware Management System
+# Smart-Home-System-AVR
 This comprehensive solution harmonizes advanced components like temperature sensors, LCD displays, LEDs, and motors for the dynamic oversight of temperature and lighting in a smart home. With real-time monitoring, perceptual cues, and adaptable lighting control, the system ensures optimal comfort, energy efficiency, and security while providing a user-friendly interface.
 
 ![](SCHEMA.png)
