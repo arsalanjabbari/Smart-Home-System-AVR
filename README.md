@@ -1,5 +1,5 @@
 # Smart Home Hardware Management System
-
+![](SCHEMA.png)
 ## Introduction
 Welcome to the README documentation for the Smart Home Hardware Management System. This document serves as an academic guide to comprehensively understand and engage with the intricacies of a sophisticated system designed for the intelligent administration of temperature and lighting in a smart home setting. The system employs cutting-edge components, including temperature sensors, LCD displays, LEDs, and motors, to facilitate real-time temperature monitoring, perceptual and auditory cues for pivotal conditions, and adaptive lighting intensity control. The system embodies user-centricity, security fortifications, energy efficiency, and a seamless synergy with the smart home milieu.
 
